@@ -1,0 +1,16 @@
+/*
+Theme Name: Seed
+Theme URI: http://beautheme.com
+Author: Beautheme
+Author URI: http://beautheme.com
+Description: SEED is an amazing clean template. With the most modern, friendly and natural style, customers will feel like they are standing in front of a large, green,fresh field. 
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, fluid-layout, responsive-layout, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready, accessibility-ready
+Text Domain: http://seed.beautheme.com
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+ul.products.grid div[itemprop="description"]{display:none}ul.products.grid hr{display:none}ul.products.list li.product{float:none!important;width:100%!important;text-align:left!important}ul.products.list li.product:after{content:"";display:block;clear:both}ul.products.list li.product img{width:30.75%!important;float:left;margin-bottom:1.5em;-webkit-transition:none!important;margin-right:3.8%!important}ul.products.list li.product h3,ul.products.list li.product div[itemprop="description"],ul.products.list li.product .price,ul.products.list li.product .gridlist-buttonwrap{width:65.4%;float:right;clear:none}ul.products.list li.product div[itemprop="description"]{display:block}ul.products.list li.product .gridlist-buttonwrap{margin-bottom:1.5em}ul.products.list li.product hr{clear:both}

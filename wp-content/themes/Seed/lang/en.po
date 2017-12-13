@@ -1,0 +1,1832 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Seed beautheme\n"
+"POT-Creation-Date: 2015-10-27 16:28+0700\n"
+"PO-Revision-Date: 2015-10-27 16:29+0700\n"
+"Last-Translator: \n"
+"Language-Team: Beautheme <support@beautheme.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive-portfolio.php:13 archive-portfolio.php:16
+#: templates/portfolio.php:19
+msgid "Portfolio"
+msgstr ""
+
+#: archive-portfolio.php:17 templates/portfolio.php:20
+msgid "Preview of work placed in full width"
+msgstr ""
+
+#: archive-portfolio.php:65 templates/portfolio.php:68
+#, php-format
+msgid "View all post filed under %s"
+msgstr ""
+
+#: archive.php:35 archive.php:37 archive.php:39 archive.php:41 archive.php:43
+#: archive.php:53 archive.php:55 archive.php:57 archive.php:59 archive.php:61
+#: archive.php:155 archive.php:157 archive.php:159 archive.php:161
+#: archive.php:163 archive.php:173 archive.php:175 archive.php:177
+#: archive.php:179 archive.php:181
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: author-bio.php:5
+#, php-format
+msgid "Written By %1$s"
+msgstr ""
+
+#: author.php:9
+#, php-format
+msgid "Posts by %1$s"
+msgstr ""
+
+#: author.php:15
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"Visit to %2$s website\">Visit to my website</a>"
+msgstr ""
+
+#: comments.php:31
+msgid "Name:"
+msgstr ""
+
+#: comments.php:37
+msgid "Email:"
+msgstr ""
+
+#: comments.php:52
+msgid "submit comment"
+msgstr ""
+
+#: comments.php:63
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:64
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:4
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:8
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: content-none.php:13
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: footer.php:19 woocommerce/cart/cart.php:26
+#: woocommerce/checkout/review-order.php:17
+msgid "Product"
+msgstr ""
+
+#: footer.php:20 vc_templates/lookbook.php:424 woocommerce/cart/cart.php:28
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/single-product-reviews.php:105
+msgid "Price"
+msgstr ""
+
+#: footer.php:21 woocommerce/cart/cart.php:29
+#: woocommerce/checkout/review-order.php:19
+#: woocommerce/global/quantity-input.php:15
+msgid "Quantity"
+msgstr ""
+
+#: footer.php:22 woocommerce/cart/cart-totals.php:78
+#: woocommerce/cart/cart.php:30 woocommerce/checkout/review-order.php:20
+#: woocommerce/checkout/review-order.php:121
+msgid "Total"
+msgstr ""
+
+#: footer.php:60
+msgid "Available on backorder"
+msgstr ""
+
+#: functions.php:86
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:89
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:171
+#, php-format
+msgid "<span class=\"author\">Posted by %1$s</span>"
+msgstr ""
+
+#: functions.php:174
+#, php-format
+msgid "<span class=\"date-published\"> at %1$s</span>"
+msgstr ""
+
+#: functions.php:177
+#, php-format
+msgid "<span class=\"category\"> in %1$s</span>"
+msgstr ""
+
+#: functions.php:182
+msgid "Leave a comment"
+msgstr ""
+
+#: functions.php:183
+msgid "One comment"
+msgstr ""
+
+#: functions.php:184
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: functions.php:185
+msgid "Read all comments"
+msgstr ""
+
+#: functions.php:203
+msgid "<p>Page:"
+msgstr ""
+
+#: functions.php:205
+msgid "Next page"
+msgstr ""
+
+#: functions.php:206
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:217
+#, php-format
+msgid "Tagged in %1$s"
+msgstr ""
+
+#: functions.php:249
+msgid "Partner logo"
+msgstr ""
+
+#: functions.php:356
+msgid "Footer sidebar "
+msgstr ""
+
+#: functions.php:357 functions.php:371
+msgid "This is footer sidebar "
+msgstr ""
+
+#: functions.php:370
+msgid "Footer sidebar"
+msgstr ""
+
+#: functions.php:460
+msgid "add to basket"
+msgstr ""
+
+#: functions.php:539
+msgid "Reviews"
+msgstr ""
+
+#: functions.php:559
+msgid "Featured Image"
+msgstr ""
+
+#: header-blog-full.php:33 header-blog-full.php:36 header-border-bottom.php:33
+#: header-border-bottom.php:36 header-details.php:33 header-grid.php:23
+#: header-grid.php:27 header-home-01.php:32 header-home-01.php:47
+#: header-home-02.php:87 templates/whistlist.php:19 templates/whistlist.php:23
+msgid "Menu"
+msgstr ""
+
+#: header-blog-full.php:57 header-border-bottom.php:57 header-details.php:57
+#: header-grid.php:48 header-home-01.php:68
+msgid "My cart "
+msgstr ""
+
+#: header-blog-full.php:60 header-border-bottom.php:60 header-details.php:60
+#: header-grid.php:51 header-home-01.php:71 header-home-02.php:63
+#: header-home-03.php:73 header-home-04.php:63 templates/whistlist.php:47
+#: woocommerce/checkout/thankyou.php:30
+#: woocommerce/myaccount/my-account.php:16
+msgid "My Account"
+msgstr ""
+
+#: header-blog-full.php:66 header-border-bottom.php:66 header-details.php:66
+#: header-grid.php:57 header-home-01.php:77 header-home-02.php:71
+#: header-home-03.php:79 templates/whistlist.php:53
+msgid "My Wishlist"
+msgstr ""
+
+#: header-blog-full.php:72 header-details.php:72 header-grid.php:63
+#: header-home-01.php:83 templates/whistlist.php:59
+msgid "Log in"
+msgstr ""
+
+#: header-blog-full.php:95 header-border-bottom.php:95 header-details.php:95
+#: header-grid.php:86 header-home-01.php:106 header-home-03.php:108
+#: templates/whistlist.php:82
+msgid "Check agrement"
+msgstr ""
+
+#: header-blog-full.php:98 header-border-bottom.php:98 header-details.php:98
+#: header-grid.php:89 header-home-01.php:109 header-home-03.php:111
+#: templates/whistlist.php:85
+msgid "Sign In"
+msgstr ""
+
+#: header-blog-full.php:107 header-border-bottom.php:107
+#: header-details.php:107 header-grid.php:98 header-home-01.php:118
+#: header-home-03.php:120 templates/whistlist.php:94
+msgid "Sign Up"
+msgstr ""
+
+#: header-blog-full.php:111 header-border-bottom.php:111
+#: header-details.php:111 header-grid.php:102 header-home-01.php:122
+#: header-home-03.php:124 templates/whistlist.php:98
+msgid "Log Out"
+msgstr ""
+
+#: header-home-02.php:54 header-home-04.php:53
+msgid "Welcome"
+msgstr ""
+
+#: header-home-02.php:56 header-home-04.php:55
+msgid "Welcome, visitor!"
+msgstr ""
+
+#: header-home-02.php:75 header-home-04.php:75
+#: woocommerce/myaccount/form-login.php:29
+#: woocommerce/myaccount/form-login.php:48
+msgid "Login"
+msgstr ""
+
+#: header-home-02.php:78 header-home-04.php:78
+msgid "Sign up"
+msgstr ""
+
+#: header-home-03.php:70 templates/whistlist.php:44
+msgid "My cart"
+msgstr ""
+
+#: index.php:20 single.php:14 templates/Blog-full.php:27
+#: templates/Blog-full.php:86 templates/Blog-left.php:25
+#: templates/Blog-right.php:19 templates/Blog.php:18
+msgid "Blog"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:161 libs/tgmpa-register.php:171
+msgid "Install Required Plugins"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:162 libs/tgmpa-register.php:172
+msgid "Install Plugins"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:163 libs/tgmpa-register.php:173
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:175 libs/tgmpa-register.php:185
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:177
+#: libs/class-tgm-plugin-activation.php:1956 libs/tgmpa-register.php:186
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:532
+#: libs/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1167
+#: libs/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1170
+#: libs/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1288
+#: libs/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1312
+#: libs/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2070
+#: libs/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2070
+#: libs/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libs/tgmpa-register.php:174
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: libs/tgmpa-register.php:187
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: page.php:53 search.php:68 templates/Blog-full.php:38
+#: templates/Blog-full.php:97 templates/Blog-left.php:48
+#: templates/Blog-right.php:40 templates/Blog.php:28 templates/Home-01.php:12
+#: templates/Home-02.php:13 templates/Home-03.php:12 templates/Home-04.php:12
+#: templates/Lookbook-option-01.php:41 templates/Lookbook-option-02.php:15
+#: templates/Lookbook-option-03.php:41 templates/Lookbook-option-04.php:41
+#: templates/Lookbook-option-masterslide.php:44 templates/about-us.php:17
+#: templates/whistlist.php:126
+msgid "Pages:"
+msgstr ""
+
+#: page.php:57 search.php:72 templates/whistlist.php:130
+#: woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: search.php:28 search.php:32
+msgid "Search Results"
+msgstr ""
+
+#: sidebar-grid.php:5 sidebar.php:5
+msgid "This is widget area. Go to Appearance -> Widgets to add some widgets."
+msgstr ""
+
+#: single.php:50 single.php:73 vc_templates/bloghome.php:56
+#: vc_templates/bloghome.php:112 vc_templates/bloghome.php:176
+#: vc_templates/bloghome.php:232
+msgid "Comments"
+msgstr ""
+
+#: single.php:92
+msgid "By"
+msgstr ""
+
+#: templates/contact.php:39
+msgid "Let's have a chat!"
+msgstr ""
+
+#: templates/contact.php:44
+msgid "Looking for a career?"
+msgstr ""
+
+#: vc_template_function.php:16 vc_template_function.php:25
+#: vc_template_function.php:35
+msgid "Enable parallax background"
+msgstr ""
+
+#: vc_template_function.php:18 vc_template_function.php:27
+#: vc_template_function.php:37
+msgid "Yes, please"
+msgstr ""
+
+#: vc_template_function.php:19 vc_template_function.php:28
+#: vc_template_function.php:38
+msgid "Enable parallax in this section (background no repeat)"
+msgstr ""
+
+#: vc_template_function.php:20 vc_template_function.php:29
+#: vc_template_function.php:39
+msgid "Design options"
+msgstr ""
+
+#: vc_template_function.php:50 vc_template_function.php:53
+msgid "History home"
+msgstr ""
+
+#: vc_template_function.php:57 vc_template_function.php:121
+#: vc_template_function.php:428 vc_template_function.php:518
+#: vc_template_function.php:585
+msgid "Option"
+msgstr ""
+
+#: vc_template_function.php:63
+msgid "Title history"
+msgstr ""
+
+#: vc_template_function.php:65 vc_template_function.php:164
+msgid "You can set title is history or about us or whatever you want"
+msgstr ""
+
+#: vc_template_function.php:69 vc_template_function.php:168
+#: vc_template_function.php:239
+msgid "Title content"
+msgstr ""
+
+#: vc_template_function.php:71 vc_template_function.php:170
+#: vc_template_function.php:241
+msgid "You can set title of content"
+msgstr ""
+
+#: vc_template_function.php:75 woocommerce/content-single-product.php:144
+msgid "Description"
+msgstr ""
+
+#: vc_template_function.php:77
+msgid "You can set description of content"
+msgstr ""
+
+#: vc_template_function.php:81
+msgid "History button link"
+msgstr ""
+
+#: vc_template_function.php:83
+msgid "You can set url of button"
+msgstr ""
+
+#: vc_template_function.php:87
+msgid "Button read more"
+msgstr ""
+
+#: vc_template_function.php:89
+msgid "You can set text of button"
+msgstr ""
+
+#: vc_template_function.php:93
+msgid "Images"
+msgstr ""
+
+#: vc_template_function.php:96 vc_template_function.php:183
+#: vc_template_function.php:190 vc_template_function.php:197
+#: vc_template_function.php:204 vc_template_function.php:278
+#: vc_template_function.php:325 vc_template_function.php:338
+#: vc_template_function.php:384 vc_template_function.php:406
+#: vc_template_function.php:528
+msgid "Select images from media library."
+msgstr ""
+
+#: vc_template_function.php:100 vc_template_function.php:174
+msgid "Content"
+msgstr ""
+
+#: vc_template_function.php:102 vc_template_function.php:176
+msgid "Content of this section."
+msgstr ""
+
+#: vc_template_function.php:115
+msgid "Blog Home"
+msgstr ""
+
+#: vc_template_function.php:127
+msgid "Post per page"
+msgstr ""
+
+#: vc_template_function.php:129
+msgid "Number post per page"
+msgstr ""
+
+#: vc_template_function.php:133
+msgid "Category name"
+msgstr ""
+
+#: vc_template_function.php:135
+msgid "Name of category you want to show"
+msgstr ""
+
+#: vc_template_function.php:139 vc_template_function.php:348
+msgid "See all blog link"
+msgstr ""
+
+#: vc_template_function.php:141
+msgid "Button link."
+msgstr ""
+
+#: vc_template_function.php:155 vc_template_function.php:158
+msgid "About us"
+msgstr ""
+
+#: vc_template_function.php:162 vc_template_function.php:227
+#: woosalescountdown/widget.php:48
+msgid "Title"
+msgstr ""
+
+#: vc_template_function.php:180
+msgid "Background top left"
+msgstr ""
+
+#: vc_template_function.php:187
+msgid "Background top right"
+msgstr ""
+
+#: vc_template_function.php:194
+msgid "Background bottom left"
+msgstr ""
+
+#: vc_template_function.php:201
+msgid "Background bottom right"
+msgstr ""
+
+#: vc_template_function.php:220 vc_template_function.php:222
+msgid "Store about us"
+msgstr ""
+
+#: vc_template_function.php:229 vc_template_function.php:481
+msgid "You can set title"
+msgstr ""
+
+#: vc_template_function.php:233 vc_template_function.php:627
+msgid "List slide"
+msgstr ""
+
+#: vc_template_function.php:245
+msgid "Name store"
+msgstr ""
+
+#: vc_template_function.php:247
+msgid "You can set name of store"
+msgstr ""
+
+#: vc_template_function.php:251
+msgid "Phone store"
+msgstr ""
+
+#: vc_template_function.php:253
+msgid "You can set phone of store"
+msgstr ""
+
+#: vc_template_function.php:257
+msgid "Email store"
+msgstr ""
+
+#: vc_template_function.php:259
+msgid "You can set Email of store"
+msgstr ""
+
+#: vc_template_function.php:263
+msgid "Address store"
+msgstr ""
+
+#: vc_template_function.php:265
+msgid "You can set address of store"
+msgstr ""
+
+#: vc_template_function.php:269
+msgid "Description right"
+msgstr ""
+
+#: vc_template_function.php:271
+msgid "Description right of this section."
+msgstr ""
+
+#: vc_template_function.php:275
+msgid "Avatar"
+msgstr ""
+
+#: vc_template_function.php:282
+msgid "Name content"
+msgstr ""
+
+#: vc_template_function.php:284
+msgid "You can set name of content"
+msgstr ""
+
+#: vc_template_function.php:288
+msgid "Job content"
+msgstr ""
+
+#: vc_template_function.php:290
+msgid "You can set job of content"
+msgstr ""
+
+#: vc_template_function.php:303 vc_template_function.php:305
+msgid "Category home"
+msgstr ""
+
+#: vc_template_function.php:310
+msgid "Title category"
+msgstr ""
+
+#: vc_template_function.php:312
+msgid "You can set title category"
+msgstr ""
+
+#: vc_template_function.php:316
+msgid "Title left"
+msgstr ""
+
+#: vc_template_function.php:318
+msgid "You can set title left"
+msgstr ""
+
+#: vc_template_function.php:322
+msgid "Image left"
+msgstr ""
+
+#: vc_template_function.php:329
+msgid "Title right"
+msgstr ""
+
+#: vc_template_function.php:331
+msgid "You can set title right"
+msgstr ""
+
+#: vc_template_function.php:335
+msgid "Image right"
+msgstr ""
+
+#: vc_template_function.php:342
+msgid "Link category left"
+msgstr ""
+
+#: vc_template_function.php:344
+msgid "Link category left."
+msgstr ""
+
+#: vc_template_function.php:350
+msgid "Link category right."
+msgstr ""
+
+#: vc_template_function.php:362 vc_template_function.php:364
+msgid "Map footer"
+msgstr ""
+
+#: vc_template_function.php:369
+msgid "Latitude map"
+msgstr ""
+
+#: vc_template_function.php:371
+msgid "You can set latitude map"
+msgstr ""
+
+#: vc_template_function.php:375
+msgid "Longitude map"
+msgstr ""
+
+#: vc_template_function.php:377
+msgid "You can set longitude map"
+msgstr ""
+
+#: vc_template_function.php:381
+msgid "Icon map"
+msgstr ""
+
+#: vc_template_function.php:396 vc_template_function.php:398
+msgid "Subcriber footer"
+msgstr ""
+
+#: vc_template_function.php:403
+msgid "Background subcribe"
+msgstr ""
+
+#: vc_template_function.php:420
+msgid "Silde woocommerce"
+msgstr ""
+
+#: vc_template_function.php:422
+msgid "Setting slide slide woocommerce"
+msgstr ""
+
+#: vc_template_function.php:431 vc_template_function.php:438
+#: vc_template_function.php:446 vc_template_function.php:454
+#: vc_template_function.php:461 vc_template_function.php:468
+#: vc_template_function.php:475 vc_template_function.php:521
+#: vc_template_function.php:535 vc_template_function.php:542
+#: vc_template_function.php:550
+msgid "Slide options"
+msgstr ""
+
+#: vc_template_function.php:435 vc_template_function.php:532
+msgid "Auto slide?"
+msgstr ""
+
+#: vc_template_function.php:437 vc_template_function.php:445
+#: vc_template_function.php:453 vc_template_function.php:460
+#: vc_template_function.php:467 vc_template_function.php:474
+#: vc_template_function.php:534 vc_template_function.php:541
+#: vc_template_function.php:549
+msgid "Active"
+msgstr ""
+
+#: vc_template_function.php:439
+msgid "If active please set slide speed."
+msgstr ""
+
+#: vc_template_function.php:443 vc_template_function.php:539
+msgid "Loop items?"
+msgstr ""
+
+#: vc_template_function.php:451
+msgid "Lock button prev?"
+msgstr ""
+
+#: vc_template_function.php:458
+msgid "Lock button next?"
+msgstr ""
+
+#: vc_template_function.php:465
+msgid "Slider mousewheel Enabled?"
+msgstr ""
+
+#: vc_template_function.php:472
+msgid "Slider Touch Drag Enabled?"
+msgstr ""
+
+#: vc_template_function.php:479
+msgid "Title product slider"
+msgstr ""
+
+#: vc_template_function.php:485 vc_template_function.php:554
+msgid "Slider Total Items"
+msgstr ""
+
+#: vc_template_function.php:487 vc_template_function.php:556
+msgid "You can set Slider Total Items"
+msgstr ""
+
+#: vc_template_function.php:491
+msgid "Slide Speed"
+msgstr ""
+
+#: vc_template_function.php:493
+msgid "You can set slide speed"
+msgstr ""
+
+#: vc_template_function.php:497
+msgid "Space between product (px)"
+msgstr ""
+
+#: vc_template_function.php:499
+msgid "You can set space"
+msgstr ""
+
+#: vc_template_function.php:512
+msgid "Testimonial Home"
+msgstr ""
+
+#: vc_template_function.php:525
+msgid "Background images"
+msgstr ""
+
+#: vc_template_function.php:547
+msgid "Slider Pagination at Bottom?"
+msgstr ""
+
+#: vc_template_function.php:560
+msgid "Number colum product"
+msgstr ""
+
+#: vc_template_function.php:562
+msgid "You can set colum"
+msgstr ""
+
+#: vc_template_function.php:579
+msgid "Look book"
+msgstr ""
+
+#: vc_template_function.php:591
+msgid "Title lookbook:"
+msgstr ""
+
+#: vc_template_function.php:593
+msgid "You can set title lookbook.(only for option Three column and Full)"
+msgstr ""
+
+#: vc_template_function.php:597
+msgid "Content lookbook:"
+msgstr ""
+
+#: vc_template_function.php:599
+msgid "You can set content lookbook.(only for option Three column and Full)"
+msgstr ""
+
+#: vc_template_function.php:603
+msgid "Id lookbook:"
+msgstr ""
+
+#: vc_template_function.php:605
+msgid "You can set id lookbook."
+msgstr ""
+
+#: vc_template_function.php:609
+msgid "Number year background:"
+msgstr ""
+
+#: vc_template_function.php:611
+msgid "You can set year of background (only for option Full)."
+msgstr ""
+
+#: vc_template_function.php:615
+msgid "Copyright:"
+msgstr ""
+
+#: vc_template_function.php:617
+msgid "You can set Copyright."
+msgstr ""
+
+#: vc_template_function.php:621
+msgid "Info:"
+msgstr ""
+
+#: vc_template_function.php:623
+msgid "You can set info."
+msgstr ""
+
+#: vc_template_function.php:630
+msgid "You can set slide lookbook (only for option lookbook Masterslide)."
+msgstr ""
+
+#: vc_template_function.php:634
+msgid "Images left option Grid"
+msgstr ""
+
+#: vc_template_function.php:637
+msgid "Select images from media library. (only for option Grid)"
+msgstr ""
+
+#: vc_templates/bloghome.php:22 vc_templates/bloghome.php:83
+#: vc_templates/bloghome.php:142
+msgid "Upcoming blog"
+msgstr ""
+
+#: vc_templates/bloghome.php:25 vc_templates/bloghome.php:128
+#: vc_templates/bloghome.php:145 vc_templates/bloghome.php:248
+msgid "See all blogs"
+msgstr ""
+
+#: vc_templates/bloghome.php:62 vc_templates/bloghome.php:118
+#: vc_templates/bloghome.php:182 vc_templates/bloghome.php:238
+msgid "More info"
+msgstr ""
+
+#: vc_templates/lookbook.php:43 vc_templates/lookbook.php:218
+msgid "scroll to discover"
+msgstr ""
+
+#: vc_templates/lookbook.php:82 vc_templates/lookbook.php:250
+#: vc_templates/slide_product_woocommerce.php:57
+#: vc_templates/slide_product_woocommerce.php:132
+#: vc_templates/slide_product_woocommerce.php:143
+msgid "Add to cart"
+msgstr ""
+
+#: vc_templates/lookbook.php:330
+msgid "BUY ITEM"
+msgstr ""
+
+#: vc_templates/lookbook.php:335
+msgid "/ WISHLIST"
+msgstr ""
+
+#: vc_templates/lookbook.php:341 vc_templates/lookbook.php:348
+msgid "/ Browse Wishlist"
+msgstr ""
+
+#: vc_templates/lookbook.php:408
+msgid "close"
+msgstr ""
+
+#: vc_templates/slide_product_woocommerce.php:42
+#: woocommerce/single-product/review.php:30
+msgid "out of 5"
+msgstr ""
+
+#: vc_templates/slide_product_woocommerce.php:66
+#: vc_templates/slide_product_woocommerce.php:152
+msgid "Select options"
+msgstr ""
+
+#: vc_templates/slide_product_woocommerce.php:219
+msgid "View detail"
+msgstr ""
+
+#: woocommerce-ajax-add-to-cart-for-variable-products/woocommerce-ajax-add-to-cart-variable-products.php:28
+msgid "WC Ajax for Variable Products"
+msgstr ""
+
+#: woocommerce-ajax-add-to-cart-for-variable-products/woocommerce-ajax-add-to-cart-variable-products.php:45
+msgid "WC Ajax for Variable Products Settings"
+msgstr ""
+
+#: woocommerce-ajax-add-to-cart-for-variable-products/woocommerce-ajax-add-to-cart-variable-products.php:45
+msgid ""
+"The following options are used to configure WC Ajax for Variable Products"
+msgstr ""
+
+#: woocommerce-ajax-add-to-cart-for-variable-products/woocommerce-ajax-add-to-cart-variable-products.php:50
+msgid "Add Selection option to Category Page"
+msgstr ""
+
+#: woocommerce-ajax-add-to-cart-for-variable-products/woocommerce-ajax-add-to-cart-variable-products.php:51
+msgid ""
+"This will automatically insert variable selection options on product "
+"Category Archive Page"
+msgstr ""
+
+#: woocommerce-ajax-add-to-cart-for-variable-products/woocommerce-ajax-add-to-cart-variable-products.php:55
+msgid "Enable Varition select option on Category Archive page"
+msgstr ""
+
+#: woocommerce-grid-list-toggle/grid-list-toggle.php:40
+#: woocommerce-grid-list-toggle/grid-list-toggle.php:45
+msgid "Default catalog view"
+msgstr ""
+
+#: woocommerce-grid-list-toggle/grid-list-toggle.php:46
+msgid "Display products in grid or list view by default"
+msgstr ""
+
+#: woocommerce-grid-list-toggle/grid-list-toggle.php:50
+msgid "Grid"
+msgstr ""
+
+#: woocommerce-grid-list-toggle/grid-list-toggle.php:51
+msgid "List"
+msgstr ""
+
+#: woocommerce-grid-list-toggle/grid-list-toggle.php:111
+msgid "Grid view"
+msgstr ""
+
+#: woocommerce-grid-list-toggle/grid-list-toggle.php:112
+msgid "List view"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:24
+#: woocommerce/checkout/review-order.php:64
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:93
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:21
+msgid "Your Order"
+msgstr ""
+
+#: woocommerce/cart/cart.php:50
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:58
+#: woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/content-single-product.php:146
+msgid "Short description"
+msgstr ""
+
+#: woocommerce/content-single-product.php:151
+msgid "See more images:"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:17
+msgid "Sort by"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:28
+msgid "PREV"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:29
+msgid "NEXT"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:30
+msgid "list"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:36
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:40
+#: woocommerce/myaccount/form-login.php:91
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:68
+#: woocommerce/myaccount/form-login.php:105
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:77
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:84
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:98
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:20
+#, php-format
+msgid ""
+"Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>) .</"
+"br></br>"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:25
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>.</br>"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:20
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:23
+msgid "Write Your Own Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:28
+#: woocommerce/single-product-reviews.php:128
+msgid " "
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:30
+msgid "How do you rate this product? *"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:49
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+#: woocommerce/single-product-reviews.php:63
+#: woocommerce/single-product-reviews.php:64
+#: woocommerce/single-product-reviews.php:65
+#: woocommerce/single-product-reviews.php:66
+msgid "Star"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Value"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Quality"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:128
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:133
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:135
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:138
+msgid "Send"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:144
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:145
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:146
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:147
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:148
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:149
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:150
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:155
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:164
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:23
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:58
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:26
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:26
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:48
+#: woocommerce/single-product/product-image.php:88
+#: woocommerce/single-product/product-image.php:128
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:42
+msgid "UP SELLING PRODUCTs"
+msgstr ""
+
+#: woocommerce/single-product/review.php:29
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:37
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:46
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""
+
+#: woosalescountdown/widget.php:52
+msgid "Please select products"
+msgstr ""
+
+#: woosalescountdown/widget.php:78 woosalescountdown/woosalescountdown.php:157
+#: woosalescountdown/woosalescountdown.php:545
+#: woosalescountdown/woosalescountdown.php:921
+msgid "days"
+msgstr ""
+
+#: woosalescountdown/widget.php:78 woosalescountdown/woosalescountdown.php:157
+#: woosalescountdown/woosalescountdown.php:545
+#: woosalescountdown/woosalescountdown.php:921
+msgid "hours"
+msgstr ""
+
+#: woosalescountdown/widget.php:78 woosalescountdown/woosalescountdown.php:157
+#: woosalescountdown/woosalescountdown.php:545
+#: woosalescountdown/woosalescountdown.php:921
+msgid "minutes"
+msgstr ""
+
+#: woosalescountdown/widget.php:78 woosalescountdown/woosalescountdown.php:157
+#: woosalescountdown/woosalescountdown.php:545
+#: woosalescountdown/woosalescountdown.php:921
+msgid "seconds"
+msgstr ""
+
+#: woosalescountdown/widget.php:142 woosalescountdown/widget.php:148
+#: woosalescountdown/widget.php:330 woosalescountdown/widget.php:336
+#: woosalescountdown/woosalescountdown.php:258
+#: woosalescountdown/woosalescountdown.php:262
+#: woosalescountdown/woosalescountdown.php:406
+#: woosalescountdown/woosalescountdown.php:410
+#: woosalescountdown/woosalescountdown.php:593
+#: woosalescountdown/woosalescountdown.php:599
+#: woosalescountdown/woosalescountdown.php:767
+#: woosalescountdown/woosalescountdown.php:773
+#: woosalescountdown/woosalescountdown.php:1015
+#: woosalescountdown/woosalescountdown.php:1021
+msgid " to "
+msgstr ""
+
+#: woosalescountdown/widget.php:188 woosalescountdown/widget.php:216
+#: woosalescountdown/widget.php:376 woosalescountdown/widget.php:404
+msgid "sold"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:70
+msgid "Products Sales Countdown"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:106
+msgid "General Options"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:111
+msgid "Show count down"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:115
+msgid "Please select what you want show in sale countdown."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:117
+msgid "Time and bar sale"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:118
+msgid "Only time "
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:119
+msgid "Only bar sale"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:120
+msgid "Only schedule"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:124
+msgid "Product Sale Countdown show on"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:128
+msgid "Please select where you want show Product Sale countdown."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:130
+msgid "Both categories and product detail"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:131
+msgid "Only categories "
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:132
+msgid "Only product detail"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:136
+msgid "Use color"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:140
+msgid "Please select color for countdown."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:142
+msgid "WooCommerce Frontend Styles"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:143
+msgid "Custom below"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:147
+msgid "Product sale's title"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:151
+msgid "Title of product what is saling."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:154
+msgid "Product coming's title"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:158
+msgid "Title of product what is coming sale."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:161
+msgid "Show Sales Countdown message"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:165
+msgid "Show message of product Comming title or product Sale title."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:167
+#: woosalescountdown/woosalescountdown-admin.php:189
+#: woosalescountdown/woosalescountdown-admin.php:200
+#: woosalescountdown/woosalescountdown-admin.php:211
+msgid "No"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:168
+#: woosalescountdown/woosalescountdown-admin.php:190
+#: woosalescountdown/woosalescountdown-admin.php:201
+#: woosalescountdown/woosalescountdown-admin.php:212
+msgid "Yes"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:172
+msgid "Bar sale for product variations"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:176
+msgid "Show product quantity sold with format"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:178
+msgid "Private"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:179
+msgid "Total variations"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:183
+msgid "Show date text"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:187
+msgid "Show Days, Hours, Mins, Sec."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:194
+msgid "Hide product"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:198
+msgid "Product will be hide when time schedule expired."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:205
+msgid "Remove Sale Price"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:209
+msgid "Sale price will be remove when time schedule expired."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:218
+msgid "Product Detail"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:223
+msgid "CountDown position"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:227
+msgid "Please choose postion where countdown show on product detail."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:229
+msgid "Above tabs area"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:230
+msgid "Below tabs area"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:231
+msgid "Above short description"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:232
+msgid "Below short description"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:233
+msgid "Above Add to cart"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:234
+msgid "Below Add to cart"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:240
+msgid "Product Category"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:245
+msgid "CountDown position on category"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:249
+msgid "Please choose postion where countdown show on category."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:251
+msgid "Above price"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:252
+msgid "Above title"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:253
+msgid "Above Add to Cart"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:254
+msgid "Below Add to Cart"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:259
+msgid "Product SHORTCODE vs Product WIDGET"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:264
+msgid "Product Show"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:265
+msgid "Show title"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:273
+msgid "Show price"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:282
+msgid "Show Image"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:291
+msgid "Linkable"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:300
+msgid "Show Add To Cart button"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:308
+msgid "Product Image Sizes"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:312
+msgid ""
+"Image Sizes will be follow WooCommerce Setting. Setting at <a href=\"admin."
+"php?page=wc-settings&tab=products\">Product setting</a>."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:314
+msgid "Catalog Images"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:315
+msgid "Single Product Image "
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:316
+msgid "Product Thumbnails"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:321
+msgid "Choose image for deal"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown-admin.php:324
+msgid "Set bar's background color what number sales on Countdown bar sale."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:61
+msgid "Start date"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:62
+msgid "End date"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:63
+#: woosalescountdown/woosalescountdown.php:1232
+#: woosalescountdown/woosalescountdown.php:1282
+msgid "Total product discount"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:64
+#: woosalescountdown/woosalescountdown.php:1242
+#: woosalescountdown/woosalescountdown.php:1292
+msgid "Quantity product sale"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:81
+msgid "Hide all countdown and sale bar"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:82
+msgid "Hide countdown on this product."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:88
+msgid "Hide only countdown"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:89
+msgid "Hide only countdown on product sale. "
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:95
+msgid "Hide only Sale Bar"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:96
+msgid "Hide only Sale Bar on product sale."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:287
+#: woosalescountdown/woosalescountdown.php:300
+#: woosalescountdown/woosalescountdown.php:622
+#: woosalescountdown/woosalescountdown.php:636
+#: woosalescountdown/woosalescountdown.php:817
+#: woosalescountdown/woosalescountdown.php:829
+#: woosalescountdown/woosalescountdown.php:1043
+#: woosalescountdown/woosalescountdown.php:1052
+msgid " sold"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:523
+msgid "Shortcode not correct"
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:1235
+#: woosalescountdown/woosalescountdown.php:1285
+msgid "Enter the TOTAL Sale product."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:1245
+#: woosalescountdown/woosalescountdown.php:1295
+msgid "Quantity sale of this product is sold."
+msgstr ""
+
+#: woosalescountdown/woosalescountdown.php:1415
+msgid "Settings"
+msgstr ""

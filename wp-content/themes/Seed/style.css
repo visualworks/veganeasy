@@ -1,0 +1,47 @@
+/*
+Theme Name: Seed
+Theme URI: http://beautheme.com
+Author: Beautheme
+Author URI: http://beautheme.com
+Description: SEED is an amazing clean template. With the most modern, friendly and natural style, customers will feel like they are standing in front of a large, green,fresh field. 
+Version: 2.1.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, fluid-layout, responsive-layout, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready, accessibility-ready
+Text Domain: http://seed.beautheme.com
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.wp-caption{}
+.wp-caption-text {}
+.sticky{
+	border: 1px solid #000!important;
+}
+.sticky:hover{
+	border: 1px solid red!important;
+}
+.hentry {
+  padding: 40px 0;
+}
+.gallery-caption{
+	margin-top:40px;
+}
+.bypostauthor{}
+.alignright{}
+.alignleft{
+	float: left;
+	margin: 15px;
+}
+.aligncenter{}
+.gallery-caption, .aligncenter, .bypostauthor, .aligncenter{
+	margin-top:40px;
+}
+.edit-link{
+	text-align: center;
+	float: left;
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.screen-reader-text{}

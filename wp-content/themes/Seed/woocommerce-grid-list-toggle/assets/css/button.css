@@ -1,0 +1,14 @@
+.gridlist-toggle{display: block;
+  clear: both;
+  width: 4em;
+  padding: 0!important;
+  margin-bottom: 1.5em;
+  background: -moz-linear-gradient(center top,#eee 0,#aaa 100%);
+  background: -moz-gradient(center top,#eee 0,#aaa 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#eeeeee,endColorstr=#aaaaaa);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#eeeeee, endColorstr=#aaaaaa)";
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  line-height: 1em!important;}
+  .gridlist-toggle a{display:inline-block;width:2em;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;text-align:center;text-decoration:none!important;font-weight:normal!important;font-family:sans-serif!important;font-size:1em!important;line-height:1.5em!important;color:#222!important;}.gridlist-toggle a#grid{}.gridlist-toggle a span{display:none}.gridlist-toggle a:hover{color:#000;background:rgba(255,255,255,0.2)}.gridlist-toggle a.active{color:#fff!important;}
